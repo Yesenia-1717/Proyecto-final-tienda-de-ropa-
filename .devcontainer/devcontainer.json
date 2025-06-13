@@ -1,0 +1,29 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset=UTF-8">
+  <meta name="ulesport" content="wldthwdecice-widht,
+    initial-scale-1.e"/>
+  <title> Inicio. Ropa Resplandor</title>
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+  <header>
+  <h1> Ropa Resplandor</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">inicio</a></li>
+        <li><a href="Productos.html">Productos</a></li>
+        <li><a href="carrito.html">Carrito</a></li>
+        <li><a href="contacto.html">contacto</a></li>
+     </ul>
+    </nav>
+    <section class="busqueda">
+      <input type="text" id="buscador" placeholder="buscar productos" oinput=" filtrar productos ()"/>
+  </section>
+  </header>
+    <main>
